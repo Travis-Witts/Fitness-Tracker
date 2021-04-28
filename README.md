@@ -36,7 +36,7 @@ The following list of requirements were derived from the project brief and consi
 
 ## Links:
 
-1. Deployed : [HERE](https://travis297.github.io/Searchify/)
+1. Deployed : [HERE](https://thawing-sierra-46651.herokuapp.com/)
 2. GitHub repo: [HERE](https://github.com/Travis-Witts/Fitness-Tracker)
 ---
 
