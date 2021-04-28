@@ -9,7 +9,7 @@ app.use(express.json());
 
 app.use(express.static("public", { extensions: ["html"] }));
 
-// app.use(require("./routes/apiRoutes.js"));
+app.use(require("./controllers/apiRoutes"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fitnessTracker", {
     useNewUrlParser: true,
